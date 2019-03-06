@@ -1,0 +1,2429 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<meta name="web_author" content="Imarc, A Digital Agency | Boston + Silicon Valley | more info at imarc.com" />
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+		<meta name="description" content="View Presentations and Videos from RSA Conference 2019, the industry&#039;s leading Information security conference." />		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta name="com.silverpop.brandeddomains" content="www.pages03.net,ae.rsaconference.com,emc.mkt6910.com,media.rsaconference.com,rsaevents.emc.com,www.rsaconference.com" />
+		<meta name="msvalidate.01" content="83473D8E6D4D78A4E5344475EF55C93A" />
+
+		
+					<meta property="og:title" content="Presentations - Cybersecurity Conference - USA 2019 | RSA Conference" />
+			<meta property="og:url" content="http://www.rsaconference.com/events/us19/presentations" />
+							<meta property="og:type" content="article" />
+						
+					<script src="//nexus.ensighten.com/dell/rsa/Bootstrap.js"></script>
+			
+		<title>Presentations - Cybersecurity Conference - USA 2019 | RSA Conference</title>
+
+		
+		<link rel="shortcut icon" href="/img/site/favicon.ico" />
+		<link rel="apple-touch-icon-precomposed" href="/img/site/icons/rsa_touch.png" />
+		<script src="/js/lib/sorttable.js"></script>
+		
+		<link rel="stylesheet" type="text/css" href="/writable/cache/cbb12c3f030289c9a9c6786fd6da722d435bb18d.css?v=1551662137" media="all" />
+<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" media="all" />
+		
+		<!--[if IE]>
+			<script src="/js/site/html5shiv.js"></script>
+		<![endif]-->
+
+		<!--[if lt IE 9]>
+			<link href="/css/site/lt-ie9.css" rel="stylesheet" type="text/css">
+		<![endif]-->
+
+        	</head>
+	<body id="presentations" class="usa_2019 fresh ">
+		
+		<!-- begin Google Tag Manager Code -->
+		
+			<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P3K7QD"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+			<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-P3K7QD');</script>
+
+			
+		<!-- end Google Analytics Code -->
+
+		
+		<header class="group primary ">
+			<div class="wrapper">
+				
+				<div class="social">
+					<ul>
+						<li class="twitter">
+							<a href="https://twitter.com/rsaconference">RSA Conference on Twitter</a>
+						</li>
+						<li class="facebook">
+							<a href="https://www.facebook.com/rsaconference">RSA Conference on Facebook</a>
+						</li>
+						<li class="linkedin">
+							<a href="https://www.linkedin.com/company/rsa-conference">RSA Conference on LinkedIn</a>
+						</li>
+						<li class="youtube">
+							<a href="https://www.youtube.com/user/RSAConference">RSA Conference on YouTube</a>
+						</li>
+						<li class="flickr">
+							<a href="https://www.flickr.com/photos/rsaconference/">RSA Conference on Flickr</a>
+						</li>
+						<li class="google_plus">
+							<a href="https://plus.google.com/+RSAConference">RSA Conference on Google Plus</a>
+						</li>
+						<li class="instagram">
+							<a href="https://www.instagram.com/rsaconference/">RSA Conference on Instagram</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<a href="#nav" class="menu">
+				Menu
+			</a>
+			<div class="identity">
+				<div class="group wrapper">
+					<a class="logo" href="/">
+						<img src="/img/site/logo_rsac.png" alt="RSA Conference" />
+					</a>
+									</div>
+			</div>
+			<div class="nav" id="sticky-nav">
+				<nav class="group primary">
+					<ul>
+						<li id="sticky-logo">
+							<a href="/">
+								<img src="/img/site/logo_rsac_sprite.png" alt="RSA Conference" />
+							</a>
+						</li>
+												<li class="active events">
+							<a href="/events">Events</a>
+							<div class="dropdown">
+																	<div class="group event">
+										<div>
+											<p>
+												<a href="/events/us19">
+													USA 2019												</a>
+												<span class="date">
+													March 4 – 8												</span>
+											</p>
+										</div>
+																					<a href="https://www.rsaconference.com/events/us19/register" class="button">
+												Register
+											</a>
+																				</div>
+																		<div class="group event">
+										<div>
+											<p>
+												<a href="/events/ap19">
+													Asia Pacific &amp; Japan 2019												</a>
+												<span class="date">
+													16 – 18 July												</span>
+											</p>
+										</div>
+																			</div>
+																	<a class="past_events" href="/events#past">Past Events →</a>
+							</div>
+						</li>
+						<li class="">
+							<a href="/blogs">Blogs</a>
+						</li>
+						<li class="">
+							<a href="/videos">Videos</a>
+						</li>
+						<li class="">
+							<a href="/podcasts">Podcasts</a>
+						</li>
+						<li class="">
+							<a href="/jobs">Job Board</a>
+						</li>
+						<li class="search">
+							<div class="site_search">
+								<form method="get" action="/search">
+									<fieldset> <div class="text"> <input id="sample_form-text" name="q" placeholder="Search the site..." type="text" />
+										</div> <div class="submit">
+											<input type="submit" value="" />
+										</div>
+									</fieldset>
+								</form>
+							</div>
+						</li>
+					</ul>
+				</nav>
+			</div>
+		</header>
+
+		<script type="text/javascript">
+			(function() {
+				var header  = document.getElementById("sticky-nav");
+				var docElem = (document.documentElement || document.body.parentNode || document.body);
+				var html    = document.getElementsByTagName('html')[0];
+				var body    = document.getElementsByTagName('body')[0];
+				var pattern = new RegExp('(\\s|^)fixed(\\s+|$)', 'g');
+				var headerOffset = header.getBoundingClientRect().top;
+
+				var affixHeader = function() {
+					var offset  = (window.pageYOffset !== undefined) ? window.pageYOffset : docElem.scrollTop;
+
+					if (offset >= headerOffset) {
+						if (!header.className.match(pattern)) {
+							header.className += ' fixed';
+							body.className += ' fixed';
+						}
+					} else {
+						header.className = header.className.replace(pattern, '');
+						body.className = body.className.replace(pattern, '');
+					}
+				};
+
+				affixHeader();
+
+				(function () {
+					var scrollHandler = window.onscroll;
+					window.onscroll = function(){
+						scrollHandler && scrollHandler();
+						affixHeader();
+					};
+				})();
+			})();
+		</script>
+
+		
+
+<div class="wrapper">
+	<div class="group torso tmpl_two_col_sidebar">
+				<style>
+			.conference_header {
+				background-image: url('/writable/conferences/page_heading_background_image/rsac2019_webheaders-b_event_agenda_1920x226.jpg');
+			}
+
+					@media only screen and (max-width: 668px) {
+				.conference_header {
+					background-image: url('/writable/conferences/page_heading_background_image/banner_internalpage_mobile_800x204.jpg');
+				}
+			}
+				</style>
+		<div class="conference_header">
+			<a href="/events/us19">
+				<p class="conference">
+					USA 2019				</p>
+				<div class="location_venue">
+					<div class="date">
+						March 4 – 8					</div>
+					<div class="venue">
+						Moscone Center, San Francisco					</div>
+				</div>
+			</a>
+
+			
+				<div class="buttons">
+					<a class="button" href="https://www.rsaconference.com/events/us19/register"
+					style="
+						background: #fd7216;
+						background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #fd7216), color-stop(100%, #fd7216));
+						filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fd7216', endColorstr='#fd7216',GradientType=0 );
+						background: linear-gradient(to bottom, #fd7216 0%, #fd7216 100%);
+						">
+						Register
+					</a>
+				</div>
+
+						</div>
+
+				<!--UdmComment-->
+		<div class="sidebar">
+					<div class="toc">
+			<nav id="secondary_nav" class="secondary"> 
+				<ul> 
+					<li class="conference ">
+						<a href="/events/us19">
+							USA 2019						</a>
+					</li>
+					
+						<li class="">
+							<a href="/events/us19/register" class="">
+								Register							</a>
+													</li>
+						
+						<li class="">
+							<a href="/events/us19/agenda" class="">
+								Agenda							</a>
+													</li>
+						
+						<li class="">
+							<a href="/events/us19/conference-tips" class="">
+								Conference Tips							</a>
+													</li>
+						
+						<li class="">
+							<a href="/events/us19/speakers" class="">
+								Speakers							</a>
+													</li>
+						
+						<li class="">
+							<a href="/events/us19/hotel-and-venue" class="">
+								Hotel and Venue							</a>
+													</li>
+						
+						<li class="">
+							<a href="/events/us19/expo-sponsors" class="">
+								Expo and Sponsors							</a>
+													</li>
+						
+						<li class="">
+							<a href="/events/us19/about" class="">
+								About							</a>
+													</li>
+						
+						<li class="active">
+							<a href="/events/us19/presentations" class="">
+								Presentations							</a>
+													</li>
+						
+						<li class="">
+							<a href="/events/us19/press" class="">
+								Press							</a>
+													</li>
+						
+						<li class="">
+							<a href="/events/us19/mobile-app" class="">
+								Mobile App							</a>
+													</li>
+						
+						<li class="">
+							<a href="/events/us19/rsac-ondemand" class="">
+								RSAC onDemand							</a>
+													</li>
+										</ul>
+			</nav>
+		</div>
+				</div>
+		<!--/UdmComment-->
+		<div class="main">
+				
+					<h1>Presentations</h1>
+					
+<div class="block downloads_and_media">
+	<form action="" class="filter" method="get">
+		<fieldset>
+			<div class="group">
+				<div class="text">
+					<label for="search-keywords">Search By Keyword</label>
+					<input type="text" id="search-keywords" name="keywords" value="" />
+				</div>
+				<div class="select">
+					<label for="search-track">Search By Conference Track</label>
+					<select name="track" id="search-track" class="select2">
+						<option value="">All Tracks</option>
+						<option  value="282">Analytics Intelligence &amp; Response</option><option  value="283">Application Security &amp; DevSecOps</option><option  value="284">Association Special Topics</option><option  value="286">Blockchain &amp; Applied Crypto</option><option  value="314">Bridging the Gap: Cybersecurity + Public Interest Tech</option><option  value="285">C-Suite View</option><option  value="287">Cloud Security &amp; Virtualization</option><option  value="315">Cybersecurity Future Proof: 2025</option><option  value="288">Cryptography</option><option  value="289">Governance Risk &amp; Compliance</option><option  value="290">Hackers &amp; Threats</option><option  value="291">Hackers &amp; Threats Advanced</option><option  value="292">Human Element</option><option  value="293">Identity</option><option  value="294">Law</option><option  value="295">Learning Labs</option><option  value="296">Machine Learning &amp; Artificial Intelligence</option><option  value="297">Mobile &amp; IoT Security</option><option  value="298">Policy &amp; Government</option><option  value="299">Privacy</option><option  value="300">Professional Development</option><option  value="301">Protecting Data &amp; the Supply Chain Ecosystem</option><option  value="302">Public-Interest Technologists and Cybersecurity</option><option  value="303">Sandbox</option><option  value="304">Security Mash Up</option><option  value="305">Security Strategy &amp; Architecture</option><option  value="306">Seminar</option><option  value="307">SEM: Blockchain</option><option  value="316">SEM: CyberSmart Parents</option><option  value="317">SEM: Diversity</option><option  value="308">SEM: GDPR</option><option  value="309">SEM: Innovation &amp; Entrepreneurship</option><option  value="310">SEM: Emerging Threats</option><option  value="321">SEM: Security Foundations</option><option  value="318">SEM: Security, Privacy and Human Behavior</option><option  value="320">SEM: She Speaks</option><option  value="311">South Stage Keynotes</option><option  value="312">Sponsor Special Topics</option><option  value="313">Technology Infrastructure &amp; Operations</option>					</select>
+				</div>
+				<div class="select">
+					<label for="search-type">Type</label>
+					<select name="type" id="search-type" class="select2">
+						<option value="">All Types</option>
+						<option  value="media">Videos</option><option  value="presentations" selected="selected">Presentations</option>					</select>
+				</div>
+			</div>
+
+			<div class="submit">
+				<input type="submit" value="Filter" />
+			</div>
+		</fieldset>
+	</form>
+			<section class="listing presentations">
+			<h3>
+				Presentations
+			</h3>
+			<ul class="group">
+							<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/idy-f02-12-ways-to-hack-2fa.pdf">
+							12 Ways to Hack 2FA						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/tech-t07-2028-future-state-long-live-the-firewall-final.pdf">
+							2028 Future State: Long Live the Firewall?						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/idy-f01-4g-to-5g-evolution-in-depth-security-perspective.pdf">
+							4G to 5G Evolution: In-Depth Security Perspective						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/spo2-t07_99_security_tools_and_you_still_got_breached.pdf">
+							99 Security Products and You Still Got Breached?						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/spo1-t07_accelerate_and_simplify_incident_response_with_security_automation.pdf">
+							Accelerate and Simplify Incident Response with Security Automation						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/mbs-t09-achieving-operational-security-excellence-in-connected-iot-solutions.pdf">
+							Achieving Operational Security Excellence in Connected IoT Solutions						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/key-t07s-a-cloud-security-architecture-workshop.pdf">
+							A Cloud Security Architecture Workshop						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/air-t06-advancing-incident-response-in-the-age-of-new-compliance-requirements.pdf">
+							Advancing Incident Response in the Age of New Compliance Requirements						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/str1-t08_a_general_introduction_to_modern_cryptography.pdf">
+							A General Introduction to Modern Cryptography						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/law-w02-ai-and-machine-learning-managing-the-risks-of-major-lawsuits.pdf">
+							AI and Machine Learning: Managing the Risks of Major Lawsuits						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/mlai-t08-ai-hacking-without-humans-how-can-human-brains-be-hacked.pdf">
+							AI: Hacking without Humans How Can Human Brains Be Hacked?						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/mbs-w10-anatomy-of-an-enterprise-mobile-security-incident.pdf">
+							Anatomy of an Enterprise Mobile Security Incident						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/mbs-w10r-anatomy-of-an-enterprise-mobile-security-incident.pdf">
+							Anatomy of an Enterprise Mobile Security Incident (Repeat)						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/cxo-f01_a-new-employer-driven-model-of-cyber-workforce-development-for-dell.pdf">
+							A New Employer-Driven Model of Cyber-Workforce Development for Dell						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/idy-f03-are-spoof-proof-biometrics-really-possible.pdf">
+							Are Spoof-Proof Biometrics Really Possible?						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/mbs-w03-attack-vectors-in-orbit-the-need-for-iot-and-satellite-security.pdf">
+							Attack Vectors in Orbit: The Need for IoT and Satellite Security						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/air-t07-att_ck-in-practice-a-primer-to-improve-your-cyber-defense-final.pdf">
+							ATT&amp;CK in Practice: A Primer to Improve Your Cyber-Defense						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/bac-w02-automated-fault-analysis-of-block-cipher-implementations-final.pdf">
+							Automated Fault Analysis of Block Cipher Implementations						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/hum-r11-automation-vs-human-eyes-optimizing-human-intuition-for-success.pdf">
+							Automation vs. Human Eyes: Optimizing Human Intuition for Success						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/mbs-f02-aviation-cybersecurity-keeping-the-wings-on.pdf">
+							Aviation Cybersecurity: Keeping the Wings On						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/hum-r09-awareness-at-scale-creating-risk-aware-cultures-in-big-companies.pdf">
+							Awareness at Scale: Creating Risk-Aware Cultures in Big Companies						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/tech-t08-back-to-the-basics-how-to-create-effective-information-security-policies_copy1.pdf">
+							Back to the Basics: How to Create Effective Information Security Policies						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/tech-t08-back-to-the-basics-how-to-create-effective-information-security-policies.pdf">
+							Back to the Basics: How to Create Effective Information Security Policies						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/lab2-t08_bad_intelligence-or_how_i_learned_to_stop_buying_and_love_the_basics.pdf">
+							Bad Intelligence: Or How I Learned to Stop Buying and Love the Basics						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/grc-w10-barney-fife-metrics-the-bullet-that-we-have-but-don_t-use-and-why.pdf">
+							Barney Fife Metrics: The Bullet That We Have but Don&rsquo;t Use, and Why						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/law-t09-blockchain-anchored-swap-meet-a-mock-trial.pdf">
+							Blockchain Anchored Swap Meet: A Mock Trial						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/pdac-f02-blockchain-augmentation-of-the-trusted-supply-chain.pdf">
+							Blockchain Augmentation of the Trusted Supply Chain						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/idy-r09-blockchain-based-identity-exploring-the-messy-space-between-promise-and-reality.pdf">
+							Blockchain-Based Identity: Exploring the Messy Space between Promise and Reality						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/bac-t07-blockchainification-of-cyber-supply-chain-risk-hype-vs-hope-final.pdf">
+							Blockchainification of Cyber-Supply Chain Risk: Hype vs. Hope						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/cryp-r09-block-cipher-cryptanalysis_ito.pdf">
+							Block Cipher: Cryptanalysis						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/cryp-r11-block-cipher-design-and-evaluation_hu.pdf">
+							Block Cipher: Design and Evaluation						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/bac-w12-breaking-the-blockchain-real-world-use-cases-opportunities-and-challenges.pdf">
+							Breaking the Blockchain: Real-World Use Cases, Opportunities and Challenges						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/csfp-w03-building-a-defensible-cyberspace-2025.pdf">
+							Building a Defensible Cyberspace: 2025						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/csfp-w03-building-a-defensible-cyberspace-2025_handout.pdf">
+							Building a Defensible Cyberspace: 2025						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/csv-t06-building-a-leading-cloud-security-program.pdf">
+							Building a Leading Cloud Security Program						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/ast3-w02-building_and_keeping_your_cybersecurity_team_with_non-traditional_staff.pdf">
+							Building&mdash;and Keeping&mdash;Your Cybersecurity Team with Nontraditional Staff						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/idy-t06-building-identity-for-an-open-perimeter_1_.pdf">
+							Building Identity for an Open Perimeter						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/cxo-t07r_building-security-in_devsecops.pdf">
+							Building Security In&mdash;DevSecOps (Repeat)						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/asd-t08-building-security-processes-for-developers-and-devops-teams.pdf">
+							Building Security Processes for Developers and DevOps Teams						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/mlai-w12-build-intelligent-vulnerability-scoring-to-optimize-security-residual-risks.pdf">
+							Build Intelligent Vulnerability Scoring to Optimize Security Residual Risks						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/mbs-f03-changing-the-world-with-the-uks-code-of-practice-for-consumer-iot-security.pdf">
+							Changing the World with the UK&rsquo;s Code of Practice for Consumer IoT Security						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/hum-r02-cheaper-by-the-dozen-application-security-on-a-limited-budget_copy1.pdf">
+							Cheaper by the Dozen: Application Security on a Limited Budget						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/cxo-t09_ciso-how-to-understand-and-manage-your-human-risk.pdf">
+							CISO: How to Understand and Manage Your Human Risk						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/lab4-t08_cloud_ctf-identifying_and_resolving_attacks_in_azure.pdf">
+							Cloud CTF: Identifying and Resolving Attacks in Azure						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/png-t09-come-get-your-free-nsa-reverse-engineering-tool_.pdf">
+							Come Get Your Free NSA Reverse Engineering Tool!						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/cxo-r09_communicating-with-the-board.pdf">
+							Communicating with the Board						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/prv-w03-connected-cars-a-security-and-privacy-by-design-study-10-years-in-the-making.pdf">
+							Connected Cars: A Security and Privacy by Design Study 10 Years in the Making						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/prv-w03-connected-cars-a-security-and-privacy-by-design-study-10-years-in-the-making_copy1.pdf">
+							Connected Cars: A Security and Privacy by Design Study 10 Years in the Making (Repeat)						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/asd-r02-container-security-at-the-speed-of-cicd.pdf">
+							Container Security at the Speed of CI/CD						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/pdac-r03-context-based-data-sensitivity-classification.pdf">
+							Context-Based Data Sensitivity Classification						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/air-w10-coordinated-vulnerability-disclosure-debate-from-the-trenches.pdf">
+							Coordinated Vulnerability Disclosure: Debate from the Trenches						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/law-w12-cryptocurrency-hacking-and-the-legal-climate-for-blockchain-technology.pdf">
+							Cryptocurrency Hacking and the Legal Climate for Blockchain Technology						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/lab3-t08_crypto_hero_hands-on_.pdf">
+							Crypto Hero (Hands-On)						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/bac-t09-cryptojacking-what_s-in-your-environment-final.pdf">
+							Cryptojacking: What&rsquo;s in Your Environment?						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m03i_cutting_the_wrong_wire-how_a_clumsy_hacker_exposed_a_global_cyberattack_copy1.pdf">
+							Cutting the Wrong Wire: How a Clumsy Hacker Exposed a Global Cyberattack						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/hum-t08-cyber-influence-cyberwar-and-psychological-operations.pdf">
+							Cyber-Influence: Cyberwar and Psychological Operations						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/spo2-r09-cyber-risk_management-new_approaches_for_reducing_your_cyber-exposure.pdf">
+							Cyber-Risk Management: New Approaches for Reducing Your Cyber-Exposure						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/mash-f03-cybersecurity-and-hospital-infection-control-overlaps-and-opportunities.pdf">
+							Cybersecurity and Hospital Infection Control: Overlaps and Opportunities						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sbx4-w3-cybersecurity_and_privacy-the_two_main_tenets_in_the_smart_city_project.pdf">
+							Cybersecurity and Privacy: The Two Main Tenets in the Smart City Project						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/law-w08-cybersecurity-federalism-as-defense-in-depth.pdf">
+							Cybersecurity: Federalism as Defense-in-Depth						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/csfp-w10-cybersecurity-futures-2025.pdf">
+							Cybersecurity Futures 2025						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/cxo-w12_cybersecurity-head-on-how-successful-organizations-win.pdf">
+							Cybersecurity Head On: How Successful Organizations Win						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/spo1-r11-cybersecurity_is_all_about_protecting_the_seams.pdf">
+							Cybersecurity Is All About Protecting the &ldquo;Seams&rdquo;						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/png-t07-cybersecurity-rubicon-is-us-domestic-and-foreign-cyber-policy-on-track.pdf">
+							Cybersecurity Rubicon: Is US Domestic and Foreign Cyber-Policy on Track						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/spo1-t06_-_cybersecurity_silo-busters_1-cyberthreat_actors_0_game_in_progress.pdf">
+							Cybersecurity Silo-Busters 1, Cyberthreat Actors 0 (Game in Progress)						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/tech-t06_cybersecurity-tips-tools-and-techniques-for-your-professional-toolbag.pdf">
+							Cybersecurity Tips, Tools and Techniques for Your Professional Toolbag						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/tech-t06r_cybersecurity-tips-tools-and-techniques-for-your-professional-toolbag.pdf">
+							Cybersecurity Tips, Tools and Techniques for Your Professional Toolbag (Repeat)						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m02b-psychology-of-technology-making-sense-of-what-we_ve-heard.pdf">
+							CyberSmart Parents Education Seminar&mdash;Keeping Your Family Safe Online						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m02d-old-school-problems-with-new-age-devices.pdf">
+							CyberSmart Parents Education Seminar&mdash;Keeping Your Family Safe Online						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m02a-what-kids-are-telling-us-about-the-digital-landscape.pdf">
+							CyberSmart Parents Education Seminar&mdash;Keeping Your Family Safe Online						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m02c-games-apps-and-devices-what-kids-are-using.pdf">
+							CyberSmart Parents Education Seminar&mdash;Keeping Your Family Safe Online						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m02e-panel-q_a.pdf">
+							CyberSmart Parents Education Seminar&mdash;Keeping Your Family Safe Online						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/grc-w02-data-breach-or-disclosure-a-quantitative-risk-analysis.pdf">
+							Data Breach or Disclosure: A Quantitative Risk Analysis						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sbx4-w2-debunking_the_hacker_hype-the_reality_of_widespread_blackouts.pdf">
+							Debunking the Hacker Hype: The Reality of Widespread Blackouts						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/idy-r03-decentralized-identity-no-promises-edition.pdf">
+							Decentralized Identity: No Promises Edition						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/cxo-w10_defining-a-cyber-risk-appetite-that-works.pdf">
+							Defining a Cyber-Risk Appetite That Works						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/cxo-w10r_defining-a-cyber-risk-appetite-that-works-_repeat_.pdf">
+							Defining a Cyber-Risk Appetite That Works (Repeat)						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/idy-t09-delivering-automated-modern-enterprise-app-auth-in-old-orgs-quickly.pdf">
+							Delivering Automated, Modern Enterprise App Auth in Old Orgs, Quickly						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/csv-f02-democratizing-cloud-security-journey-to-secure-the-public-cloudl.pdf">
+							Democratizing Cloud Security: Journey to Secure the Public Cloud						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/hum-w03-democratizing-security-a-story-of-security-decentralization.pdf">
+							Democratizing Security: A Story of Security Decentralization						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/bac-w03-demystifying-quantum-computers-final.pdf">
+							Demystifying Quantum Computers						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/hum-f01-designing-effective-security-ux_-if-its-not-usable-its-not-secure_copy1.pdf">
+							Designing Effective Security UX: If It&rsquo;s Not Usable, It&rsquo;s Not Secure						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/spo2-w12_designing_for_doomsday-effective_api_security_approaches_from_the_edge.pdf">
+							Designing for Doomsday: Effective API Security Approaches from the Edge						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/cxo-f02_developing-key-performance-indicators-for-security.pdf">
+							Developing Key Performance Indicators for Security						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/asd-t07-devops-seven-deadly-diseases.pdf">
+							DevOps&rsquo; Seven Deadly Diseases						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/asd-f02-devsecops-for-therest-of-us.pdf">
+							DevSecOps for the Rest of Us!						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/law-t08-dhs-hackers-and-the-lawyers-who-advise-them.pdf">
+							DHS Hackers and the Lawyers Who Advise Them						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/cxo-w02_doing-security-orchestration-automation-and-response-before-it-was-born.pdf">
+							Doing Security Orchestration, Automation and Response before It Was Born						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/hum-r03-don_t-hand-me-that-the-art-of-incident-analysis.pdf">
+							Don&rsquo;t Hand Me That! The Art of Incident Analysis						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/grc-f01-do-you-know-your-organization_s-top-10-security-risks.pdf">
+							Do You Know Your Organization&rsquo;s Top 10 Security Risks?						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/pdac-t09-due-diligence-meets-small-business-nightmares-from-the-other-side.pdf">
+							Due Diligence Meets Small Business: Nightmares from the Other Side						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/spo3-r03_effectiveness_vs._efficiency-10_capabilities_of_the_modern_security_operations_center.pdf">
+							Effectiveness vs. Efficiency: 10 Capabilities of the Modern SOC						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/mash-r11-election-hacking-trading-malware-for-votes.pdf">
+							Election Hacking: Trading Malware for Votes						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/law-t07-elections-at-risk-global-threats-local-impact.pdf">
+							Elections at Risk: Global Threats / Local Impact						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m03g-ransom-a_real-world_case_study_in_data_theft_forensics_and_the_law_final.pdf">
+							Emerging Threats 						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m03f_exploit_kits_malware_roi_and_the_shift_in_attack_vectors.pdf">
+							Emerging Threats 						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m03h-combatting_the_scourge_of_fileless_malware.pdf">
+							Emerging Threats 						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m03l_ransomware-the_rise_death_and_resurrection_of_digital_extortion_copy1.pdf">
+							Emerging Threats 						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m03l_ransomware-the_rise_death_and_resurrection_of_digital_extortion.pdf">
+							Emerging Threats 						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m03j-bitcoin_por_favor-cybercriminal_usage_of_cryptocurrency_in_latin_america_copy1.pdf">
+							Emerging Threats 						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m03k-addressing_botnets-global_problem_national_and_international_solutions.pdf">
+							Emerging Threats 						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m03e-lessons_learned_from_running_high_stakes_cybercriminal_arms_races.pdf">
+							Emerging Threats 						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m03b_cryptojacking-what_s_in_your_environment.pdf">
+							Emerging Threats 						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m03a_putin_is_posting_social_media_vodka_and_national_security.pdf">
+							Emerging Threats 						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m03c-the-industry-of-social-network-manipulation-from-botnets-to-hucksters.pdf">
+							Emerging Threats 						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m03d-profiting-from-hacked-iot-devices-coin-mining-ransomware-something-else.pdf">
+							Emerging Threats 						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sbx5-w1-engaging_the_media.pdf">
+							Engaging the Media 101						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/mbs-r09-engineering-out-the_cyber-risk-to-protect-what-matters-most.pdf">
+							Engineering Out the Cyber-Risk to Protect What Matters Most						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/mlai-t09-ethical-bias-in-ai-based-security-systems-the-big-data-disconnect.pdf">
+							Ethical Bias in AI-Based Security Systems: The Big Data Disconnect						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/mbs-t07-evolution-of_ai-bot-swarming-intelligence-with-robots.pdf">
+							Evolution of AI-Bot Swarming Intelligence with Robots						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/cxo-t06_expense-in-depth-managing-your-total-cost-of-controls.pdf">
+							Expense in Depth: Managing Your Total Cost of Controls						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/grc-t08-finding-the-right-answers-facilitating-insider-threat-analysis-using-octave.pdf">
+							Finding the Right Answers&mdash;Facilitating Insider Threat Analysis Using OCTAVE						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sbx3-w2_first_steps_in_rf_-_lessons_learned.pdf">
+							First Steps in RF: Lessons Learned						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/prof-f01-five-secrets-to-attract-and-retain-top-tech-talent-in-your-future-workplace.pdf">
+							Five Secrets to Attract and Retain Top Tech Talent in Your Future Workplace						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/air-t08_flash-war-tapering-an-accelerating-attack-chain.pdf">
+							Flash War: Tapering an Accelerating Attack Chain						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/cryp-w03-foundation_wood.pdf">
+							Foundation						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/cryp-w03-foundation_auerbach_copy1.pdf">
+							Foundation						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/bac-t06-from-ephemeral-infrastructure-to-ephemeral-communications.pdf">
+							From Ephemeral Infrastructure to Ephemeral Communications						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/bac-t06r-from-ephemeral-infrastructure-to-ephemeral-communications.pdf">
+							From Ephemeral Infrastructure to Ephemeral Communications (Repeat)						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/cryp-t09-functional-encryption_razvan1.pdf">
+							Functional Encryption						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/cryp-t09-functional_encryption_razvan2.pdf">
+							Functional Encryption						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/str-t06-future-proof-cybersecurity-strategy.pdf">
+							Future-Proof Cybersecurity Strategy						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/grc-w03-gdpr-how-to-work-out-if-you-security-is-appropriate.pdf">
+							GDPR: How to Work Out If Your Security Is &ldquo;Appropriate&rdquo;						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/grc-w03r-gdpr-how-to-work-out-if-you-security-is-appropriate-repeat.pdf">
+							GDPR: How to Work Out If Your Security Is &ldquo;Appropriate&rdquo; (Repeat)						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/tech-w02-getting-practical-with-addressing-risks-in-ot-networks-final.pdf">
+							Getting Practical with Addressing Risks in OT Networks: Where to Start?						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/key-f02-_girl_scouting-for-talent-the-solution-in-the-next-generation.pdf">
+							(Girl) Scouting for Talent: The Solution in the Next Generation						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/prv-w12-global-regulatory-trends-in-privacy-and-cybersecurity-for-2019.pdf">
+							Global Regulatory Trends in Privacy and Cybersecurity for 2019						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/ht-w02_hacking_and_hardening_kubernetes.pdf">
+							Hacking and Hardening Kubernetes						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/key-w02s-hacking-exposed-live-bypassing-nextgen.pdf">
+							Hacking Exposed: LIVE&mdash;Bypassing NextGen						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/mbs-w12-hacking-healthcare-live-digital-disease-clinical-crisis.pdf">
+							Hacking Healthcare Live: Digital Disease, Clinical Crisis						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/ht-t06b_privacy_in_the_age_of_pervasive_cameras-when_electronic_privacy_gets_physical_kapadia.pdf">
+							Hacking the Human: Special Edition						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/ht-t06_hacking-the-human.pdf">
+							Hacking the Human: Special Edition						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/ht-t06a_folk-theories-of-security-and-privacy_rader.pdf">
+							Hacking the Human: Special Edition						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/ht-t06c_hacking_the_human-special_edition_bauer.pdf">
+							Hacking the Human: Special Edition						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/spo3-t06-harnessing_the_law_of_data_gravity-cyber_defense_and_the_hybrid_cloud_copy1.pdf">
+							Harnessing the Law of Data Gravity: Cyber-Defense and the Hybrid Cloud						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/ast2-w02-hearing_voices-the_cybersecurity_pro_s_view_of_the_profession.pdf">
+							Hearing Voices: The Cybersecurity Pro&rsquo;s View of the Profession						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/mbs-t06_-hindsight-and-2020-a-clear-eyed-look-at-shared-responsibil-i-o-t.pdf">
+							Hindsight and 2020: A Clear-Eyed Look at Shared Responsibil-I-o-T						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/cryp-t08-homomorphic_encryption_polyakov.pdf">
+							Homomorphic Encryption						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/spo1-w03_honeypot_predators-hunter_vs._prey.pdf">
+							Honeypot Predators: Hunter vs. Prey						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/law-t06-hot-topics-in-cyber-law-2019.pdf">
+							Hot Topics in Cyber-Law 2019						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/bac-r11-how-bad-incentives-led-to-crypto-mining-malware-and-what-to-do-about-it.pdf">
+							How Bad Incentives Led to Crypto-Mining Malware, and What to Do about It						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/air-r02-how-cti-can-play-a-key-role-to-get-security-on-board.pdf">
+							How CTI Can Play a Key Role to Get Security on Board						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/asd-w12-how-i-learned-docker-security-the-hard-way-so-you-don_t-have-to.pdf">
+							How I Learned Docker Security the Hard Way (So You Don&rsquo;t Have To)						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/idy-w12-how-the-h_ck-r-u-a-modern-identity-assurance-approach-in-a-hacked-world.pdf">
+							How the H@ck R U? A Modern Identity Assurance Approach in a Hacked World						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/spo3-t08-how_to_apply_a_zero-trust_model_to_cloud_data_and_identity.pdf">
+							How to Apply a Zero-Trust Model to Cloud, Data and Identity						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/csfp-w05-how-to-eliminate-a-major-vulnerability-in-the-cybersecurity-workforce.pdf">
+							How to Eliminate a Major Vulnerability in the Cybersecurity Workforce						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/spo3-w03-how_to_evolve_threat_hunting_by_using_the_mitre_att_ck_framework.pdf">
+							How to Evolve Threat Hunting by Using the MITRE ATT&amp;CK Framework						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m05c-how_to_rise_above_the_noise_industry_expert_interviews_2_successful_startup_marketing_executives.pdf">
+							How-To for Innovators and Entrepreneurs						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m05b-how_to_get_the_ciso_s_attention_wsj_pro_interviews_2_leading_cisos.pdf">
+							How-To for Innovators and Entrepreneurs						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m05a-how_to_start_a_company.pdf">
+							How-To for Innovators and Entrepreneurs						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m05d-how_to_find_the_money-crunchbase_interviews_2_leading_venture_capitalists.pdf">
+							How-To for Innovators and Entrepreneurs						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m05-opening_remarks-dave_dewalt.pdf">
+							How-To for Innovators and Entrepreneurs						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/cxo-t08_how-to-make-sense-of-cybersecurity-frameworks.pdf">
+							How to Make Sense of Cybersecurity Frameworks						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/cxo-t08r_how-to-make-sense-of-cybersecurity-frameworks.pdf">
+							How to Make Sense of Cybersecurity Frameworks (Repeat)						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/grc-r09-how-to-measure-ecosystem-impacts.pdf">
+							How to Measure Ecosystem Impacts						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/lab1-t08_scenario_1_turnslides_1v1.pdf">
+							How to Run a Cyber-Incident Response Exercise Using an Open-Source Scenario						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/lab1-t08_how_to_run_a_cyber-incident_response_exercise_using_an_open-source_scenario.pdf">
+							How to Run a Cyber-Incident Response Exercise Using an Open-Source Scenario						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/lab1-t08_any_incident_introduction_1v0.pdf">
+							How to Run a Cyber-Incident Response Exercise Using an Open-Source Scenario						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/pdac-r11-how-understanding-risk-is-changing-for-open-source-components.pdf">
+							How Understanding Risk Is Changing for Open Source Components						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/ht-w03_how_vault_7_leaks_helped_develop_my_own_cyberespionage_weapon.pdf">
+							How Vault 7 Leaks Helped Develop My Own Cyberespionage Weapon						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/spo1-t09_-_https_-_is_privacy_making_us_less_secure.pdf">
+							HTTPS: Is Privacy Making Us Less Secure?						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/hum-t06-humans-are-awesome-at-risk-management.pdf">
+							Humans Are Awesome at Risk Management						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/sbx3-w1-hunting-and-tracking-rogue-radio-frequency-devices.pdf">
+							Hunting and Tracking Rogue Radio Frequency Devices						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/cryp-t07-id-based-and-predicate-encryption_blazy.pdf">
+							ID-Based and Predicate Encryption						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/cryp-t07-id-based-and-predicate-encryption_blazy_copy1.pdf">
+							ID-Based and Predicate Encryption						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/grc-f03-imf-case_study-metrics-that-matter-help-management-with-decision-making-and-improve-security-posture-of-the-organization.pdf">
+							IMF Case Study: Metrics That Matter&mdash;Help Management with Decision Making and Improve Security Posture of the Organization						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/idy-w03-_important-things-you-need-to-know-about-storing-your-identity.pdf">
+							Important Things You Need to Know about Storing Your Identity						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/air-r11-incident-response-beyond-enterprise-it_final.pdf">
+							Incident Response beyond Enterprise IT						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/pdac-f01-infecting-the-embedded-supply-chain.pdf">
+							Infecting the Embedded Supply Chain						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/spo3-w10_innovative_answers_to_the_iot_security_challenges.pdf">
+							Innovative Answers to the IoT Security Challenges						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/cxo-w03_inside_the_timehop_breach_response.pdf">
+							Inside the Timehop Breach Response						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/tech-f02-intelligence-driven-industrial-security-with-case-studies-in-ics-attacks-final.pdf">
+							Intelligence-Driven Industrial Security with Case Studies in ICS Attacks						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sbx1-w1_internet_of_food-how_iot_threatens_fields_farms_and_factories.pdf">
+							Internet of Food: How IoT Threatens Fields, Farms and Factories						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/law-w15-into-the-breach-dealing-with-law-enforcement-and-counsel-in-a-cyber-crisis.pdf">
+							Into the Breach: Dealing with Law Enforcement and Counsel in a Cyber-Crisis						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/str-f02-introduction-to-defending-the-enterprise-using-automated-security-operations-final.pdf">
+							Introduction to Defending the Enterprise Using Automated SecOps						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/mash-r09-investigative-journalists-speak-out-year-v.pdf">
+							Investigative Journalists Speak Out Year V						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/mbs-w02-japans-new-cybersecurity-strategy-to-close-an-iot-gap.pdf">
+							Japan&rsquo;s New Cybersecurity Strategy to Close an IoT Gap						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/csv-r02-kubernetes-runtime-security-what-happens-if-a-container-goes-bad.pdf">
+							Kubernetes Runtime Security: What Happens if a Container Goes Bad?						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/prv-w02-lesson-learned-what-i-have-experienced-while-implementing-gdpr.pdf">
+							Lesson Learned: What I Have Experienced While Implementing GDPR						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/key-t09s-lessons-learned-from-30-years-of-security-awareness-efforts.pdf">
+							Lessons Learned from 30+ Years of Security Awareness Efforts						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/mlai-t06-lessons-learned-in-automating-decision-making-pitfalls-and-opportunities.pdf">
+							Lessons Learned in Automating Decision-Making: Pitfalls and Opportunities						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/tech-w10-lost_boys-how-linux-and-mac-intersect-in-a-windows-centric-security-world-final.pdf">
+							Lost Boys: How Linux and Mac Intersect in a Windows-Centric Security World						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/cryp-r02-mac-and-authenticated-encryption_sasaki.pdf">
+							MAC and Authenticated Encryption						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/spo1-t08_machine_learning-the_what_and_why_of_ai.pdf">
+							Machine Learning: The What and Why of AI						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/mlai-w10-machine-learning-toolbox-for-cybersecurity-risk-management_copy1.pdf">
+							Machine Learning Toolbox for Cybersecurity Risk Management						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/spo2-t09-making_security_a_competitive_advantage.pdf">
+							Making Security a Competitive Advantage						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/mbs-r02-manufacturers-approach-towards-cybersecurity-threats-targeting-healthcare.pdf">
+							Manufacturers Approach towards Cybersecurity Threats Targeting Healthcare						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/grc-r11-math-is-hard-compliance-to-continuous-risk-management.pdf">
+							Math Is Hard: Compliance to Continuous Risk Management						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/bac-t08-mechanical-backdoors-in-cold-war-encryption-machines-final.pdf">
+							Mechanical Backdoors in Cold War Encryption Machines						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/bac-t08r-mechanical-backdoors-in-cold-war-encryption-machines-final.pdf">
+							Mechanical Backdoors in Cold War Encryption Machines (Repeat)						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/mbs-t08-mobile-security-and-the-post-perimeter-world-10-years-of-mobile-threats.pdf">
+							Mobile Security and the Post-Perimeter World: 10 Years of Mobile Threats						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/idy-t08_-more-than-vaulting-adapting-to-new-privileged-access-threats.pdf">
+							More than Vaulting: Adapting to New Privileged Access Threats						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/pdac-w03-multiparty-vulnerability-disclosure-from-here-to-where.pdf">
+							Multiparty Vulnerability Disclosure: From Here to Where?						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/law-t10-navigating-today_s-data-privacy-regulation-labyrinthpptx.pdf">
+							Navigating Today&rsquo;s Data Privacy Regulation Labyrinth						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/prv-t07-new-rules-comparing-the-ca-consumer-privacy-act-and-eu-gdpr-what-every-security-professional-needs_to_know.pdf">
+							New Rules: Comparing the CA Consumer Privacy Act and EU GDPR&mdash;What Every Security Professional Needs to Know						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/grc-r03-nist-cybersecurity-framework-and-pci-dss.pdf">
+							NIST Cybersecurity Framework and PCI DSS						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/idy-w10-no-more-firewalls-how-zero-trust-networks-are-reshaping-cybersecurity.pdf">
+							No More Firewalls! How Zero-Trust Networks Are Reshaping Cybersecurity						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/idy-w10-no-more-firewalls-how-zero-trust-networks-are-reshaping-cybersecurity_copy1.pdf">
+							No More Firewalls! How Zero-Trust Networks Are Reshaping Cybersecurity						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/mash-r03-none-of-us-are-as-smart-as-all-of-us.pdf">
+							NONE of Us Are as Smart as ALL of Us						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/tech-f03-passwords-and-patching-the-forgotten-building-blocks-of-enterprise-security.pdf">
+							Passwords and Patching: The Forgotten Building Blocks of Enterprise Security						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/spo3-t07-playing_with_fire-how_cyber-physical_attacks_threaten_our_connected_world.pdf">
+							Playing with Fire: How Cyber-Physical Attacks Threaten Our Connected World						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/cryp-w12-post-quantum-cryptography_eskandarian_copy1.pdf">
+							Post-Quantum Cryptography						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/cryp-w12-post-quantum-cryptography_eskandarian.pdf">
+							Post-Quantum Cryptography						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/asd-w10-practical-approaches-to-cloud-native-security.pdf">
+							Practical Approaches to Cloud Native Security						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/ht-t09_practical_malware_analysis_essentials_for_incident_responders.pdf">
+							Practical Malware Analysis Essentials for Incident Responders						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/prv-t06-privacy-essentials-for-security-professionals.pdf">
+							Privacy Essentials for Security Professionals						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/air-w12-prosilience-moving-beyond-operational-resilience.pdf">
+							Prosilience: Moving beyond Operational Resilience						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/csv-w02-protecting-the-cloud-with-the-power-of-cloud.pdf">
+							Protecting the Cloud with the Power of Cloud						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/csv-w02r-protecting-the-cloud-with-the-power-of-cloud_copy1.pdf">
+							Protecting the Cloud with the Power of Cloud (Repeat)						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/tech-r03-protect-your-achilles-heel-manage-security-risks-in-your-legacy-products-final.pdf">
+							Protecting your Achilles heel: Managing security risk in your legacy product portfolio 						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/cryp-t06-public-key-encryption_chow_copy1.pdf">
+							Public Key Encryption						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/cryp-t06-public-key-encryption_chow.pdf">
+							Public Key Encryption						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/law-w10-ransom-a-real-world-case-study.pdf">
+							Ransom: A Real-World Case Study in Data Theft, Forensics and the Law						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/spo1-w10-ransomware_attack_protection_and_recovery-lessons_from_the_front_lines.pdf">
+							Ransomware Attack Protection and Recovery: Lessons from the Front Lines						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/csv-w12-red-team-view-gaps-in-the-serverless-application-attack-surface.pdf">
+							Red Team View: Gaps in the Serverless Application Attack Surface						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/asd-t09-release-your-inner-devsecop.pdf">
+							Release Your Inner DevSecOp						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/ast2-r02_responding_to_and_recovering_from_cybersecurity_incidents.pdf">
+							Responding to and Recovering from Cybersecurity Incidents						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/ast1-w02_results_of_the_isc_2_workforce_survey.pdf">
+							Results of the (ISC)&sup2; Workforce Survey						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/prof-f03-retaining-and-growing-cybersecurity-talent-a-proven-model.pdf">
+							Retaining and Growing Cybersecurity Talent: A Proven Model						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/pdac-t06-rethinking-efficient-third-party-risk-management.pdf">
+							Rethinking Efficient Third-Party Risk Management						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/png-t06-risks-and-results-counter-risks-to-the-nation_s-critical-infrastructure.pdf">
+							Risks and Results: Counter-Risks to the Nation&rsquo;s Critical Infrastructure						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/prof-t07-roadmap-to-entrepreneurial-success-lessons-learned-along-the-way.pdf">
+							Roadmap to Entrepreneurial Success: Lessons Learned along the Way						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/sbx4-w4-safety-systems-are-the-new-target.pdf">
+							Safety Systems Are the New Target: Design Security Using Safety Methods						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sbx4-w1-ics_scada_attack_detection_101.pdf">
+							SCADA Attack Detection 101						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/cryp-f02-secure-computation_schabhueser.pdf">
+							Secure Computation						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/cryp-f02-secure-computation_zhao.pdf">
+							Secure Computation						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/csv-f03-secure-innovation-in-public-cloud-myth-or-reality.pdf">
+							Secure Innovation in Public Cloud, Myth or Reality?						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/csv-f01-securely-deploying-micro-services-containers-and-serverless-paas_web-apps.pdf">
+							Securely Deploying Micro Services, Containers and Serverless PaaS Web Apps						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/ht-t07_secure-the-pod-bay-doors-hal-cybersecurity-risks-of-iot-automation_novid.pdf">
+							Secure the Pod Bay Doors, HAL: Cybersecurity Risks of IoT Automation						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/csv-w03-csv-w03-securing-cloud-native-applications-at-scale.pdf">
+							Securing Cloud-Native Applications at Scale						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/idy-r02-securing-intel-pc-for-fido-support-industry-standard-to-remove-passwords.pdf">
+							Securing Intel PC for FIDO Support: Industry Standard to Remove Passwords						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/key-t08s-security-at-36000-feet_.pdf">
+							Security at 36,000 Feet!						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/csv-t09-security-at-the-speed-of-devops-a-reality-check.pdf">
+							Security at the Speed of DevOps: A Reality Check						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m04c-coding-secure-code-best-practices-advice-for-writing-secure-code.pdf">
+							Security Foundations						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m04f_iot-state-of-security.pdf">
+							Security Foundations						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m04a-infrastructure-in-transition-securing-your-cloud-environments.pdf">
+							Security Foundations						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m04d-common_security_frameworks.pdf">
+							Security Foundations						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m04b_crypto-basics-history-applied-cryptography-in-it-sec-today-and-in-the-next-year.pdf">
+							Security Foundations						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m04e-identity-and-access-management-emerging-trends.pdf">
+							Security Foundations						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m04_introduction_copy1.pdf">
+							Security Foundations						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/str-r03-security-learns-to-sprint-devsecops.pdf">
+							Security Learns to Sprint: DevSecOps						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/cryp-w02-security-model-and-white-box-crypto_takayasu.pdf">
+							Security Model and White-Box Crypto						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/asd-w03-security-precognition-chaos-engineering-in-incident-response.pdf">
+							Security Precognition: Chaos Engineering in Incident Response						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m01_security-privacy-and-human-behavior_agenda.pdf">
+							Security, Privacy and Human Behavior						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m01_opening-remarks.pdf">
+							Security, Privacy and Human Behavior						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m01c-measuring-the-rationality-of-security-behavior.pdf">
+							Security, Privacy and Human Behavior						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m01i-rethinking-access-control-and-authentication-for-the-home-iot.pdf">
+							Security, Privacy and Human Behavior						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m01g-the-quest-for-usable-and-secure-passwords.pdf">
+							Security, Privacy and Human Behavior						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m01f-privacy-in-the-age-of-pervasive-cameras-when-electronic-privacy-gets-physical.pdf">
+							Security, Privacy and Human Behavior						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m01e-security-and-privacy-challenges-for-iot.pdf">
+							Security, Privacy and Human Behavior						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m01d-making-privacy-personal-profiling-users-privacy-management-strategies-on-social-networking-sites.pdf">
+							Security, Privacy and Human Behavior						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m01b-folk-theories-of-security-and-privacy.pdf">
+							Security, Privacy and Human Behavior						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m01a-how-to-infer-actual-privacy-concern-from-online-behavior.pdf">
+							Security, Privacy and Human Behavior						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m01h_humanistic-multi-factor-authentication-mfa-why-we-dont-use-mfa.pdf">
+							Security, Privacy and Human Behavior						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sbx1-w2-shadow_iot_hacking_the_corporate_environment-office_as_the_new_smart_home.pdf">
+							Shadow IoT Hacking the Corporate Environment: Office as the New Smart Home						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m07d-take-action-network-speak-repeat.pdf">
+							She Speaks Security: Gaining Confidence Speaking and Submitting to Speak						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m07c-from-abstract-to-presentation-diagraming-your-successful-talk.pdf">
+							She Speaks Security: Gaining Confidence Speaking and Submitting to Speak						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m07b-playing-to-win-what-makes-a-winning-abstract.pdf">
+							She Speaks Security: Gaining Confidence Speaking and Submitting to Speak						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m07a-dynamic-speaking-tips-to-finding-your-voice-overcoming-your-fears-and-telling-your-story.pdf">
+							She Speaks Security: Gaining Confidence Speaking and Submitting to Speak						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m07a-dynamic-speaking-tips-to-finding-your-voice-overcoming-your-fears-and-telling-your-story-elena_elkina.pdf">
+							She Speaks Security: Gaining Confidence Speaking and Submitting to Speak						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/cryp-r03-side-channel-and-leakage-resilience_david.pdf">
+							Side Channel and Leakage Resilience						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/spo2-w10-simplicity_from_complexity-cybersecurity_insights_that_matter_most.pdf">
+							Simplicity from Complexity: Cybersecurity Insights That Matter Most						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/tech-f01-soc-automation-enterprise-blueprinting-and-hunting-using-open-source-tools-final.pdf">
+							SOC Automation, Enterprise Blueprinting and Hunting Using Open-Source Tools						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m06c-the_who-is-this-responsibility-yours-mine-or-ours_.pdf">
+							Solving Our Cybersecurity Talent Shortage						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m06e-cybersecurity_s-dirty-little-secret-and-talent-grenade-burnout.pdf">
+							Solving Our Cybersecurity Talent Shortage						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m06d-release-of-insight-paper.pdf">
+							Solving Our Cybersecurity Talent Shortage						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m06_opening.pdf">
+							Solving Our Cybersecurity Talent Shortage						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m06b-the-how-retain-and-recruit-a-diverse-talent-pool.pdf">
+							Solving Our Cybersecurity Talent Shortage						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sem-m06a-the-why-the-dei-dividend.pdf">
+							Solving Our Cybersecurity Talent Shortage						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/asd-r03-stop-that-release-theres-a-vulnerability.pdf">
+							Stop That Release, There&rsquo;s a Vulnerability!						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/idy-t07-studies-of-2fa-why-johhny-cant-use-2fa-and-how-we-can-change-that.pdf">
+							Studies of 2FA, Why Johhny Can&rsquo;t Use 2FA and How We Can Change That						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/idy-t07-studies-of-2fa-why-johhny-can_t-use-2fa-and-how-we-can-change-that.pdf">
+							Studies of 2FA, Why Johhny Can&rsquo;t Use 2FA and How We Can Change That						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/grc-t06-superforecasting-ii-risk-assessment-prognostication-in-the-21st-century.pdf">
+							Superforecasting II: Risk Assessment Prognostication in the 21st Century						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/pdac-w02-supply-chain-security-for-critical-energy-infrastructure.pdf">
+							Supply Chain Security for Critical Energy Infrastructure						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/pdac-f03-tales-from-the-psirt-10-years-of-bugs-vulnerabilities-and-cves.pdf">
+							Tales from the PSIRT: 10 Years of Bugs, Vulnerabilities and CVEs						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/csv-r11-the-advantage-of-ignoring-the-long-tail-of-security-a-product-view.pdf">
+							The Advantage of Ignoring the Long Tail of Security: A Product View						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/hum-t07-the-art-of-the-nudge-cheap-ways-to-steer-user-behavior.pdf">
+							The Art of the Nudge, Cheap Ways to Steer User Behavior						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/str-t07-the-digital-risk-dilemma-how-to-protect-what-you-don_t-control.pdf">
+							The Digital Risk Dilemma: How to Protect What You Don&rsquo;t Control						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/sbx1-w4-the_emerging_grey_app_threat-mobile_kids_apps_are_gateway_to_parents.pdf">
+							The Emerging Grey App Threat: Mobile Kids Apps Are Gateway to Parents						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/law-w03-the-eu_-general-data-protection-regulation-one-year-later.pdf">
+							The EU&rsquo;s General Data Protection Regulation: One Year Later						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/cxo-r11_the-fine-art-of-creating-a-transformational-cybersecurity-strategy.pdf">
+							The Fine Art of Creating a Transformational Cybersecurity Strategy						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/hta-t09_the_foreshadow_attack-from_a_simple_oversight_to_a_technological_nightmarew.pptx.pdf">
+							The Foreshadow Attack: From a Simple Oversight to a Technological Nightmare						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/spo3-r09_the_future_is_hybrid-key_considerations_for_cloud_and_devops.pdf">
+							The Future Is Hybrid: Key Considerations for Cloud and DevOps						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/grc-t07-the-metrics-manifesto.pdf">
+							The Metrics Manifesto						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/ast1-r02_-_the_nist_cybersecurity_framework-building_on_success.pdf">
+							The NIST Cybersecurity Framework: Building on Success						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/prv-w10-the-nist-privacy-framework-what-it-is-and-what-it-means-for-you.pdf">
+							The NIST Privacy Framework: What It Is and What It Means for You						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/hum-w02-the-rise-of-the-cyber-culture-hacker.pdf">
+							The Rise of the Cyber-Culture Hacker						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/mlai_t07.pdf">
+							The Rise of the Machines, AI- and ML-Based Attacks Demonstrated						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/spo1-r03-the_upside_down-the_roles_and_responsibilities_of_cybercrime_syndicates.pdf">
+							The Upside Down: The Roles and Responsibilities of Cybercrime Syndicates						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/png-t08-the-women-driving-innovation-in-state-cybersecurity.pdf">
+							The Women Driving Innovation in State Cybersecurity						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/mash-r02-threat-hunting-using-16th-century-math-and-sesame-street.pdf">
+							Threat Hunting Using 16th-Century Math and Sesame Street						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/asd-f01-threat-modeling-in-2019.pdf">
+							Threat Modeling in 2019						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/mash-f02-top-10-security-disasters-in-ml-how-laurel-and-yanny-replaced-alice-and-bob.pdf">
+							Top 10 Security Disasters in ML: How Laurel and Yanny Replaced Alice and Bob						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/key-t06s-top-10-ways-to-make-hackers-excited-about-the-shortcuts-not-worth-taking.pdf">
+							Top 10 Ways to Make Hackers Excited: About the Shortcuts Not Worth Taking						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/csv-w10-treating-cloud-specific-threats-with-automatic-remediation.pdf">
+							Treating Cloud-Specific Threats with Automatic Remediation						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/spo3-w12-unmasking_operation_shaheen.pdf">
+							Unmasking Operation Shaheen						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/air-t09-unraveling-detection-methodologies-indicators-vs.-anomalies-vs.-behaviors.pdf">
+							Unraveling Detection Methodologies: Indicators vs. Anomalies vs. Behaviors						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/tech-t09-update-on-confidential-computing.pdf">
+							Update on Confidential Computing						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/air-f01-use-model-to-deconstruct-threats-detect-intrusion-by-statistical-learning.pdf">
+							Use Model to Deconstruct Threats: Detect Intrusion by Statistical Learning						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/prv-t08-use-of-facial-recognition-to-combat-terrorism_copy1.pdf">
+							Use of Facial Recognition to Combat Terrorism						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/csv-t08-using-automation-to-help-achieve-security-in-a-multicloud-environment.pdf">
+							Using Automation to Help Achieve Security in a Multicloud Environment						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/bac-r09-using-high-entropy-encryption-for-enterprise-collaboration-final.pdf">
+							Using High-Entropy Encryption for Enterprise Collaboration						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/spo2-t08-using_the_cloud_to_secure-versus_securing_the_cloud.pdf">
+							Using the Cloud to Secure vs. Securing the Cloud						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/grc-w12-virtual-pen-testing-using-risk-models.pdf">
+							Virtual Pen Testing Using Risk Models						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/grc-f02-what-does-cyber-insurance-really-bring-to-the-table-and-are-you-covered.pdf">
+							What Does Cyber-Insurance Really Bring to the Table and&hellip;Are You Covered?						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/spo2-w03-what_happens_to_your_threat_model_when_hardware_isn_t_really_hardware.pdf">
+							What Happens to Your Threat Model When Hardware Isn&rsquo;t Really Hardware?						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/pdac-w12-what-lurks-within-your-it-spotlight-on-the-dark-side-of-the-supply-chain_copy1.pdf">
+							What Lurks within Your IT: Spotlight on the Dark Side of the Supply Chain						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/cxo-r02_what-sennacherib-taught-me-about-security-how-to-translate-cyber-speak.pdf">
+							What Sennacherib Taught Me about Security: How to Translate Cyber-Speak						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/prv-t09-what-should-a-us-federal-privacy-law-look-like__copy1.pdf">
+							What Should a US Federal Privacy Law Look Like?						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/law-w05-what-you-need-to-know-about-the-cybersecurity-landscape-and-cyber-cases.pdf">
+							What You Need to Know about the Cybersecurity Landscape and Cyber-Cases						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/pdac-t07-when-the-one-you-trust-hurts-you-most-real-world-attack-real-time-response.pdf">
+							When the One You Trust Hurts You Most: Real-World Attack, Real-Time Response						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/pdac-t07r-when-the-one-you-trust-hurts-you-most-real-world-attack-real-time-response.pdf">
+							When the One You Trust Hurts You Most: Real-World Attack, Real-Time Response (Repeat)						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/spo1-w12-who_watches_the_watchers-ip_protection_for_privileged_users.pdf">
+							Who Watches the Watchers: IP Protection for Privileged Users						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/hum-f02-why-data-driven-personalized-journeys-are-the-future-of-security-training.pdf">
+							Why Data-Driven Personalized Journeys Are the Future of Security Training						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/mbs-r11-why-industrial-iot-security-is-really-about-saving-lives.pdf">
+							Why Industrial IoT Security Is Really about Saving Lives						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/prof-f02-why-the-role-of-ciso-sucks-and-what-we-should-do-to-fix-it.pdf">
+							Why the Role of CISO Sucks and What We Should Do to Fix It!						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/asd-w02-will-your-application-be-secure-enough-when-robots-produce-code-for-you.pdf">
+							Will Your Application Be Secure Enough When Robots Produce Code for You?						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/prof-r03-women-in-cybersecurity-finding-attracting-and-cultivating-talent.pdf">
+							Women in Cybersecurity: Finding, Attracting and Cultivating Talent						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/sbx1-w3-yet-another-iot-hack.pdf">
+							Yet Another IoT Hack						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/spo3-t09-you_can_t_manage_what_you_can_t_measure-are_we_measuring_the_right_stuff.pdf">
+							You Can&rsquo;t Manage What You Can&rsquo;t Measure: Are We Measuring the Right Stuff?						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/pdac-t08-your-datas-integrity-protect-and-respond-to-ransomware-and-critical-events.pdf">
+							Your Data&rsquo;s Integrity: Protect and Respond to Ransomware and Critical Events						</a>
+					</h4>
+				</li>
+								<li class="clear">
+					<h4>
+						<a href="/writable/presentations/file_upload/csfp-w12-you_ve-predicted-the-future-now-what-pulling-the-right-security-levers.pdf">
+							You&rsquo;ve Predicted the Future, Now What? Pulling the Right Security Levers						</a>
+					</h4>
+				</li>
+								<li class="">
+					<h4>
+						<a href="/writable/presentations/file_upload/idy-w02-zero-knowledge-zk-proofs_privacy_preserving-authentication.pdf">
+							Zero-Knowledge (ZK) Proofs&mdash;Privacy-Preserving Authentication						</a>
+					</h4>
+				</li>
+							</ul>
+
+					</section>
+		
+	</div>
+		</div>
+	</div>
+</div>
+
+		<footer class="group primary">
+			<div class="wrapper">
+				<div class="group upcoming_conferences">
+					<h5>
+						Upcoming Conferences
+					</h5>
+					<ul class="group upcoming">
+													<li>
+								<a href="/events/us19">
+									<img src="/writable/conferences/thumbnail_image/260x80centertop/us19-thumb_copy1.jpg" alt="USA 2019" />
+									<div>USA 2019</div>
+								</a>
+							</li>
+														<li>
+								<a href="/events/ap19">
+									<img src="/writable/conferences/thumbnail_image/260x80centertop/mbs-singapore-skyline_copy5.jpg" alt="Asia Pacific &amp; Japan 2019" />
+									<div>Asia Pacific &amp; Japan 2019</div>
+								</a>
+							</li>
+												</ul>
+				</div>
+
+				<div class="main" id="nav">
+					<nav>
+						<ul>
+							<li>
+								<a href="/about">About</a>
+							</li>
+							<li>
+								<a href="/press">Press Releases</a>
+							</li>
+							<li>
+								<a href="/jobs">Job Board</a>
+							</li>
+						</ul>
+					</nav>
+					<nav>
+						<ul>
+							<li>
+								<a href="/blogs">Blogs</a>
+							</li>
+							<li>
+								<a href="/videos">Videos</a>
+							</li>
+						</ul>
+					</nav>
+					<nav class="contact">
+						<ul>
+							<li>
+								<a href="/contact">Contact RSAC</a>
+							</li>
+							<li>
+								<a href="/podcasts">Podcasts</a>
+							</li>
+						</ul>
+					</nav>
+																<p class="legal">
+  <a href="http://www.dell.com/learn/us/en/uscorp1/site-terms-of-use-copyright">Copyright ©</a> 
+  2019 Dell Inc. or its subsidiaries. All Rights Reserved.
+  <span class="links">
+    <a href="/sitemap">Sitemap</a> |
+    <a href="http://www.emc.com/legal/legal-information.htm">Legal Notices</a> |
+    <a href="/privacy">Privacy Statement</a>
+  </span>
+</p>
+<p class="legal">
+  RSA Conference logo, RSA, Dell, EMC, Dell EMC and other trademarks are trademarks of Dell Inc. or its subsidiaries. Other trademarks may be trademarks of their respective owners.
+</p>
+									</div>
+				<div class="secondary">
+					<div class="social">
+						<h5>
+							Stay Connected
+						</h5>
+						<ul class="group">
+							<li class="twitter">
+								<a href="https://twitter.com/rsaconference">RSA Conference on Twitter</a>
+							</li>
+							<li class="facebook">
+								<a href="https://www.facebook.com/rsaconference">RSA Conference on Facebook</a>
+							</li>
+							<li class="linkedin">
+								<a href="https://www.linkedin.com/company/rsa-conference">RSA Conference on LinkedIn</a>
+							</li>
+							<li class="youtube">
+								<a href="https://www.youtube.com/user/RSAConference">RSA Conference on YouTube</a>
+							</li>
+							<li class="flickr">
+								<a href="https://www.flickr.com/photos/rsaconference/">RSA Conference on Flickr</a>
+							</li>
+							<li class="google_plus">
+								<a href="https://plus.google.com/+RSAConference">RSA Conference on Google Plus</a>
+							</li>
+							<li class="instagram">
+								<a href="https://www.instagram.com/rsaconference/">RSA Conference on Instagram</a>
+							</li>
+						</ul>
+					</div>
+					<div class="email_list">
+						<h5>
+							Join the RSA Conference Community
+						</h5>
+						<p>
+							<a class="button newsletter-signup-footer" href="https://go.rsaconference.com/emailsignup/">
+								Sign Up
+							</a>
+							<a class="prefs" href="https://go.rsaconference.com/managepreferences">
+								Manage Preferences
+							</a>
+						</p>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<p class="for_print">
+			This document was retrieved from http://www.rsaconference.com/events/us19/presentations			on Wed, 06 Mar 2019 11:58:35 -0500.
+		</p>
+
+		<style>
+			@import url(//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,700,300,600,400);
+		</style>
+
+		<script type="text/javascript" src="/writable/cache/c2df8bcf4dc9881619890b0f5ceaf7afdcbfa531.js?v=1551662140"></script>
+
+		
+		<!-- Feedbackify -->
+		<script type="text/javascript">
+			var fby = fby || [];
+			fby.push(['showTab', {id: '5836', position: 'right', color: '#6179B8'}]);
+			(function () {
+				var f = document.createElement('script'); f.type = 'text/javascript'; f.async = true;
+				f.src = '//cdn.feedbackify.com/f.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(f, s);
+			})();
+		</script>
+
+		
+		<!-- Silverpop -->
+		<script src="https://www.sc.pages03.net/lp/static/js/iMAWebCookie.js?4949f539-149b06ae287-2d617ac8ac4460b9f143347708bf4d50&h=www.pages03.net" type="text/javascript"></script>
+
+	</body>
+</html>
+
