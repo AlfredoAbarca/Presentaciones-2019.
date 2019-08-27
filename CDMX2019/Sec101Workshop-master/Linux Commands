@@ -1,0 +1,83 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Preparing Your Ubuntu Host
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+1a. sudo apt-get update
+1b. sudo apt-get upgrade
+
+2a. wget -qO - https://artifacts.elastic.co/GPG-KEY-elasticsearch | sudo apt-key add
+
+3a.	echo "deb https://artifacts.elastic.co/packages/7.x/apt stable main" | sudo tee -a /etc/apt/sources.list.d/elastic-7.x.list
+
+4a. sudo apt-get update
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Lab 3
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+1a. sudo apt-get install packetbeat
+
+2a. /usr/bin/packetbeat devices
+
+3a. sudo vi /etc/packetbeat/packetbeat.yml
+
+4a. sudo packetbeat setup
+
+5a. sudo service packetbeat start
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Lab 4
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+1a. sudo apt-get install auditbeat
+
+2a.	sudo vi /etc/auditbeat/auditbeat.yml
+
+3a. sudo auditbeat setup
+
+4a.	sudo service auditbeat start
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Lab 13
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+1a. java -version
+
+2a. sudo apt-get install default-jre
+
+3a. sudo apt-get install logstash
+
+4a. sudo vi /etc/logstash/conf.d/beatsInput.conf
+
+5.
+
+input {
+  beats {
+    port => 5044
+  }
+ }
+#
+# A filter will go here
+#
+output {
+  elasticsearch {
+      hosts => ["Paste_the_Elasticsearch_Endpoint_URL_here"]
+      index => "%{[agent][type]}-%{[@metadata][version]}-%{+YYYY.MM.dd}"
+      ilm_enabled => true
+      user => "elastic"
+      password => "Paste_the_'elastic'_username's password_here"
+                }
+}
+
+6a. sudo service logstash start
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Lab 16
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+2a.	sudo apt-get install hydra
+
+2b. wget https://dl.packetstormsecurity.net/Crackers/wordlists/literature/1984.txt.gz
+2c. gzip -d 1984.txt.gz

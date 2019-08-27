@@ -1,0 +1,91 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Lab 6
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+5a. cd \
+5b. mkdir elastic
+5c. cd elastic
+
+6. powershell
+
+7a. [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12 
+7b. Invoke-WebRequest -URI "https://artifacts.elastic.co/downloads/beats/winlogbeat/winlogbeat-7.2.0-windows-x86_64.zip" -Outfile winlogbeat.zip
+
+8a. Expand-Archive -path .\winlogbeat.zip -destinationpath .\
+8b. cd .\winlogbeat-7.2.0-windows-x86_64\
+8c. .\install-service-winlogbeat.ps1
+
+12a.	.\winlogbeat.exe setup –dashboards
+
+13a. Start-Service Winlogbeat
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Lab 8
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+1a.	auditpol /get /category:*
+
+2a.	auditpol /set /category:System /success:enable /failure:enable
+2b.	auditpol /set /category:"Logon/Logoff" /success:enable /failure:enable
+2c.	auditpol /set /category:"Object Access" /success:enable /failure:enable
+2d.	auditpol /set /category:"Privilege Use" /success:enable /failure:enable
+2e.	auditpol /set /category:"Detailed Tracking" /success:enable /failure:enable
+2f.	auditpol /set /category:"Policy Change" /success:enable /failure:enable
+2g.	auditpol /set /category:"Account Management" /success:enable /failure:enable
+2h.	auditpol /set /category:"DS Access" /success:enable /failure:enable
+2i.	auditpol /set /category:"Account Logon" /success:enable /failure:enable
+
+
+3a. auditpol /get /category:*
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Lab 9
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+1a. cd c:\elastic
+
+2a. Invoke-WebRequest -URI "https://download.sysinternals.com/files/Sysmon.zip" -Outfile sysmon.zip
+
+3a.	Expand-Archive -Path .\Sysmon.zip -DestinationPath .\
+
+4a. .\sysmon.exe -accepteula -i -h md5 -n -l 
+
+5a. Restart-Service Winlogbeat
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Lab 10
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+1a. Get-WinEvent -Listlog *
+
+2b. Get-WinEvent -ListLog * | Select-Object LogName
+
+2c. Get-WinEvent -ListLog * | Select-Object LogName | Measure-Object | Select-Object Count
+
+2d. Get-WinEvent -Listlog * | Select-Object LogName | Select-String -Pattern "Sysmon"
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Lab 11
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+1a. Invoke-WebRequest -URI "https://artifacts.elastic.co/downloads/beats/packetbeat/packetbeat-7.2.0-windows-x86_64.zip" -Outfile packetbeat.zip
+
+2a. Invoke-WebRequest -URI "http://www.win10pcap.org/download/Win10Pcap-v10.2-5002.msi" -Outfile winpcap.msi
+
+8a.	Expand-Archive -Path .\packetbeat.zip -Destination .
+
+9a.	cd packetbeat-7.2.0-windows-x86_64
+
+10a. .\packetbeat.exe devices
+
+12a.	.\install-service-packetbeat.ps1
+
+13a.	Start-Service Packetbeat
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Lab 13
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+11a. winlog.channel : "Microsoft-Windows-Sysmon/Operational" and event.code: "3" and process.name : "chrome.exe"
